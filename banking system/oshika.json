@@ -1,0 +1,37 @@
+[
+
+  {
+    "UserId": 1,
+    "Username": "Arthur",
+    "Password": "123",
+    "UserType": "admin",
+    "Address":  null
+  },
+
+  {
+
+    "UserId": 2,
+    "Username": "Boris",
+    "Password": "ABC",
+    "UserType": "customer",
+    "Address": "10 London Road"
+
+  },
+
+  {
+    "UserId": 3,
+    "Username": "Chole",
+    "Password": "1+x",
+    "UserType": "customer",
+    "Address": "99 Queens Road"
+  },
+
+  {
+    "UserId": 4,
+    "Username": "David",
+    "Password": "aBC",
+    "UserType": "customer",
+    "Address": "2 Birmingham Street"
+
+  }
+]

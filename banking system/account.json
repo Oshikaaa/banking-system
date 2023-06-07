@@ -1,0 +1,59 @@
+[
+  {
+    "AccountId": 1,
+    "UserId": 2,
+    "Account_type": "Current account",
+    "Balance": 1000.0,
+    "Interest_rateorOverdraft_limit": 100.0
+  },
+  {
+    "AccountId": 2,
+    "UserId": 3,
+    "Account_type": "Current account",
+    "Balance": 1000.0,
+    "Interest_rateorOverdraft_limit": 100
+  },
+  {
+    "AccountId": 3,
+    "UserId": 3,
+    "Account_type": "Saving account",
+    "Balance": 4000.0,
+    "Interest_rateorOverdraft_limit": 2.99
+  },
+  {
+    "AccountId": 4,
+    "UserId": 4,
+    "Account_type": "Saving account",
+    "Balance": 200.0,
+    "Interest_rateorOverdraft_limit": 0.99
+  },
+  {
+    "AccountId": 5,
+    "UserId": 4,
+    "Account_type": "Saving account",
+    "Balance": 5000.0,
+    "Interest_rateorOverdraft_limit": 4.99
+  }
+  //},
+  //{
+  //  "AccountId": 3,
+  //  "UserId": 2,
+  //  "Account_type": "Saving account",
+  //  "Balance": 100.0,
+  //  "Interest_rateorOverdraft_limit": 2.99
+  //},
+  //{
+  //  "AccountId": 2,
+  //  "UserId": 2,
+  //  "Account_type": "Current account",
+  //  "Balance": 1100.0,
+  //  "Interest_rateorOverdraft_limit": 2.2
+  //},
+  //{
+  //  "AccountId": 3,
+  //  "UserId": 2,
+  //  "Account_type": "Saving account",
+  //  "Balance": 4000.0,
+  //  "Interest_rateorOverdraft_limit": 2.99
+  //}
+]
